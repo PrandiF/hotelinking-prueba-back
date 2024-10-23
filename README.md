@@ -1,6 +1,6 @@
-# Laravel Backend for Managing Offers and Promo Codes
+# Backend
 
-This project is a backend built with Laravel for managing offers and promotional codes. Below are the instructions to set up the project locally, configure the database, and seed it with initial data.
+Este proyecto es un backend construido con Laravel para la gestión de ofertas y códigos promocionales. A continuación se muestran las instrucciones para configurar el proyecto localmente, configurar la base de datos y sembrarlo con los datos iniciales.
 
 ## Requisitos
 
